@@ -17,7 +17,7 @@ class TharaniPortfolioApp extends StatelessWidget {
       theme: AppTheme.light(),
       darkTheme: AppTheme.dark(),
       onGenerateRoute: AppRouter.onGenerateRoute,
-      initialRoute: AppRoutes.home,
+      initialRoute: AppRoutes.splash,
     );
   }
 }
