@@ -11,30 +11,6 @@ Flutter foundation for a modern personal portfolio application using Material 3.
 - Asset directories prepared for images, icons, animations, and data
 - Stronger linting for clean, scalable code
 
-## Structure
-
-```text
-lib/
-  app/
-    app.dart
-    bootstrap.dart
-    navigation/
-  core/
-    constants/
-    theme/
-    widgets/
-  features/
-    about/
-    contact/
-    dashboard/
-    home/
-    projects/
-assets/
-  animations/
-  data/
-  icons/
-  images/
-```
 
 ## Notes
 
